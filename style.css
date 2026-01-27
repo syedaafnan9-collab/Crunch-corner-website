@@ -1,0 +1,10 @@
+.carousel-inner {
+  height: 300px;
+}
+.carousel-item {
+  height: 100%;
+}
+.carousel-item img {
+  height: 100%;
+  object-fit: cover;
+}
