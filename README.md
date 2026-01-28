@@ -49,3 +49,7 @@ DOM manipulation and basic JavaScript interactivity
 Website structure organization
 
 Improving frontend development skills
+
+🌐 Live Demo
+- [View Live Site](https://6978bc44c005c6a0a696017d--crunch-corner-e.netlify.app/)
+
